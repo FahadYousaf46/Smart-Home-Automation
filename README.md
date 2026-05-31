@@ -46,10 +46,3 @@ The codebase is structured using core **OOP principles** in C++ for scalability 
 
 ---
 
-## 👥 Team
-
-Developed by students at **COMSATS University Islamabad**:
-
-- **Muhammad Maaz Khan** — SP25-ELC-070
-- **Fahad Yousaf** — SP25-ELC-065
-- **Tashifa Akram** — SP25-ELC-106

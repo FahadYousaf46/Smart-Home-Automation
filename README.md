@@ -1,4 +1,4 @@
-# 🏠 Smart Home Automation System
+## 🏠 Smart Home Automation System
 
 > An intelligent, automated environment control system built with **Arduino & C++**, demonstrating Object-Oriented Programming (OOP) principles applied to embedded hardware.
 
@@ -42,7 +42,17 @@ The codebase is structured using core **OOP principles** in C++ for scalability 
 ## Repository Contents
 
 - `SmartHomeAutomation.ino` — Complete object-oriented C++ source code
-- `OOP-Presentation.pdf` — Project slides with block diagrams and flowcharts
+
 
 ---
+## Block Diagram
+
+<img width="982" height="541" alt="WhatsApp Image 2026-05-31 at 2 29 15 PM" src="https://github.com/user-attachments/assets/064bf93f-6d70-40fd-bc29-136b51bfb921" />
+
+## Circuit Diagram
+
+<img width="997" height="557" alt="WhatsApp Image 2026-05-31 at 2 29 16 PM" src="https://github.com/user-attachments/assets/06b29f5e-4fea-487c-8e84-f5ae8cbf4e4f" />
+
+<img width="1280" height="963" alt="WhatsApp Image 2026-05-29 at 9 54 31 PM" src="https://github.com/user-attachments/assets/16a8f058-78ec-41d6-b85d-e50df9b40d7c" />
+
 

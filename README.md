@@ -4,13 +4,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 Manual control of home appliances often leads to energy wastage and inefficiency. This system autonomously manages a **12V cooling fan** and **room lighting** based on real-time environmental data — temperature and light intensity — requiring **zero human intervention**.
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 - **Microcontroller:** Arduino Uno
 - **Temperature & Humidity Sensor:** DHT11
@@ -21,7 +21,7 @@ Manual control of home appliances often leads to energy wastage and inefficiency
 
 ---
 
-## 💻 Software Architecture
+## Software Architecture
 
 The codebase is structured using core **OOP principles** in C++ for scalability and clean logic — not a flat procedural script.
 
@@ -31,7 +31,7 @@ The codebase is structured using core **OOP principles** in C++ for scalability 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. The **DHT11 sensor** continuously monitors room temperature. If it exceeds **37°C**, the L298N motor driver activates the 12V fan.
 2. The **LDR sensor** monitors ambient light levels. If the analog reading drops below **300**, the LED turns on automatically.
@@ -39,7 +39,7 @@ The codebase is structured using core **OOP principles** in C++ for scalability 
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `SmartHomeAutomation.ino` — Complete object-oriented C++ source code
 - `OOP-Presentation.pdf` — Project slides with block diagrams and flowcharts
